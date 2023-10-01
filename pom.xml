@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bioExtrack</groupId>
-	<artifactId>BioExtrack</artifactId>
+	<artifactId>wsc-bioExtrack</artifactId>
 	<packaging>pom</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>BioExtrack</name>
+	<name>wsc-bioExtrack</name>
 	<description>Biometric data and expenses tracking</description>
 	<properties>
 		<java.version>17</java.version>
