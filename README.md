@@ -1,3 +1,3 @@
-# BioExtrack-wsc
+# playground-wsc
 
-webservice for personal project related with tracking of personal expenses
+webservice to use as a playground to try out things
